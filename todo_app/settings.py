@@ -28,7 +28,7 @@ SECRET_KEY = 'pn-*o-)suxc-g_1h*yngh%+o8sl&c#(ml^_vpj8+vt=-(!%1*x'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-'https://todo-list-dj.herokuapp.com/',
+'todo-list-dj.herokuapp.com/',
 'localhost:8000'
 ]
 
